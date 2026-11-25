@@ -66,7 +66,7 @@
 
 Agent Toolbox provides a free toolkit for AI agent builders, offering instant, private utilities that run directly in the browser without signup. The platform includes a directory of tools, MCP server configurations, token estimators, schema validators, and linting utilities, supporting popular LLM clients like Claude Desktop and Cursor. It aims to simplify tool integration for LLM applications, offering resources such as pricing, documentation, and community support.
 
-**Areas:** AI · Tools · Free · Browser · Agent
+**Areas:** Artificial Intelligence · Tools · Free · Browser · Agents
 
 ## Agent Toolbox on APIs.io
 
@@ -85,7 +85,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agenttoolbox Net Agentic Access](https://apis.io/agentic-access/agenttoolbox-net/agenttoolbox-net-agentic-access/)
+- [Agent Toolbox Agentic Access](https://apis.io/agentic-access/agenttoolbox-net/agenttoolbox-net-agentic-access/)
 
 #### Governance rules (1)
 
@@ -97,14 +97,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenttoolbox Net Authentication](https://apis.io/security/agenttoolbox-net/agenttoolbox-net-authentication/)
-- [Agenttoolbox Net Domain Security](https://apis.io/security/agenttoolbox-net/agenttoolbox-net-domain-security/)
+- [Agent Toolbox Authentication](https://apis.io/security/agenttoolbox-net/agenttoolbox-net-authentication/)
+- [Agent Toolbox Domain Security](https://apis.io/security/agenttoolbox-net/agenttoolbox-net-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenttoolbox Net Plans Pricing](https://apis.io/plans/agenttoolbox-net/agenttoolbox-net-plans-pricing/)
+- [Agent Toolbox Plans Pricing](https://apis.io/plans/agenttoolbox-net/agenttoolbox-net-plans-pricing/)
 
 ## Where to find this API
 
@@ -120,23 +120,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 44.8** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 37.8** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 39.8 |
-| Contract governance | 65.5 |
+| Discoverability | 73.2 |
+| Contract quality | 42.9 |
+| Contract governance | 18.2 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 32.6 |
-| Access clarity | 63.7 |
+| Developer ergonomics | 28.0 |
+| Access clarity | 61.7 |
 
-**Agent readiness 29.8** — agent-ready
+**Agent readiness 22.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
@@ -145,7 +145,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -156,8 +156,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenttoolbox-net/](https://apis.io/providers/agenttoolbox-net/).
 
